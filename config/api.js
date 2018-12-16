@@ -1,4 +1,4 @@
-const ApiRootUrl = 'https://www.xqnxtc.cn/api/';
+const ApiRootUrl = 'https://api.xqnxtc.cn/api/';
 
 module.exports = {
   IndexUrl: ApiRootUrl + 'index/index', //首页数据接口
